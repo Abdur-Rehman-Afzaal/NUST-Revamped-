@@ -3,6 +3,12 @@ import react from '@vitejs/plugin-react';
 import fs from 'fs';
 import path from 'path';
 import {defineConfig} from 'vite';
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+  base: '/NUST-Revamped-/',
+  // keep your existing plugins and other settings below
+})
 
 export default defineConfig(() => {
   return {
