@@ -1,0 +1,8 @@
+{
+  "name": "NUST — National University of Sciences & Technology",
+  "description": "Modern research university portal for NUST Islamabad featuring interactive program & fee discovery, audience-first navigation, NSTP innovation showcase, and admissions tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
